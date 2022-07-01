@@ -14,7 +14,7 @@ log("Defining variables, classes and functions...","INFO")
 import keepalive
 
 version = "SysDef DEV 0.0"
-token = "OTg0NDcwMzUxOTE0MzQwNDEz.GjrwQb.BaEzC3BBp0AIKUTNuSm99Cq7sSy475EfKiEkcs"
+token = "TOKEN"
 channeltoggle = False
 spam_count = {}
 spam_count_reset_sec = 10
